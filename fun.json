@@ -13,8 +13,8 @@
 			"type": 3,
 			"api": "./py/七区.py",
 			"quickSearch": 1,
-			"filterable": 1,
-			"playerType": 2
+			"searchable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "javdb_py",
